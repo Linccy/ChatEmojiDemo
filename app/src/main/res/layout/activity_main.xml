@@ -4,7 +4,7 @@
     android:id="@+id/activity_main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="org.linccy.myapplication.MainActivity">
+    tools:context="org.linccy.chartemojidemo.MainActivity">
 
     <TextView
         android:id="@+id/emoji_chart_tv"
@@ -20,7 +20,7 @@
         android:layout_below="@+id/emoji_chart_tv"
         android:layout_margin="20dp" />
 
-    <org.linccy.myapplication.emojichart.EaseChatInputMenu
+    <org.linccy.chartemojidemo.emojichart.EaseChatInputMenu
         android:id="@+id/input_menu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
