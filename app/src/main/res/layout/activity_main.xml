@@ -20,7 +20,7 @@
         android:layout_below="@+id/emoji_chart_tv"
         android:layout_margin="20dp" />
 
-    <org.linccy.chartemojidemo.emojichart.EaseChatInputMenu
+    <org.linccy.chartemojidemo.emojichart.ChatInputMenu
         android:id="@+id/input_menu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
